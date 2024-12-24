@@ -1,3 +1,5 @@
+**Remove the vignetting phenomenon in real time**
+
 1. Get the parameters from calibration.py in /src.
     - **output**: parameters1.txt
     - **run**: `python3 calibration.py "image_path"`
