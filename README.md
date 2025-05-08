@@ -15,6 +15,6 @@
 **Computer Performance**
 - Intel core i7
 - NVIDIA GeForce 3050Ti laptop, 8GB
-- 
+
 ![github_test](https://github.com/user-attachments/assets/09c7c86e-4980-4074-b1be-21d5bab0c9e7)
     
